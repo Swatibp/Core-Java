@@ -31,7 +31,7 @@ class Customer {
     public class CustomerClass {
         public static void main(String[] args) {
             Customer c = new Customer();
-            c.setData(1, "Swati", 8088777777L);
+            c.setData(1, "Rohi", 8088777777L);
             System.out.println(c.getcID());
             System.out.println(c.getcName());
             System.out.println(c.getcNum());
